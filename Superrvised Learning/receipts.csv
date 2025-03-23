@@ -1,0 +1,13 @@
+text,label
+Invoice #INV-2023-001\nDate: 2023-10-05\nTotal Due: $450.00\nDue Date: 2023-10-20,invoice
+"Service Invoice\nClient: ABC Corp\nAmount: $1,200.00\nPayment Terms: Net 30",invoice
+Receipt #RC-9876\nDate: 2023-10-05\nTotal Paid: $75.50\nPayment Method: Credit Card,receipt
+Coffee Shop Receipt\nTotal: $4.99\nThank you for your purchase!,receipt
+"Subject: Meeting Reminder\nHi Team, don't forget the 2 PM meeting today. Best, John",email
+"Urgent: Project Deadline Extended\nNew deadline: November 15th. Regards, Manager",email
+"Monthly Sales Report\nOctober 2023\nTotal Sales: $50,000\nTop Product: Widget X",report
+Annual Financial Summary 2023\nRevenue: $1.2M\nExpenses: $900K\nNet Profit: $300K,report
+Service Agreement\nParties: XYZ Corp & Client\nTerm: 12 months\nSignatures: [Signature Block],contract
+"Employment Contract\nPosition: Software Engineer\nStart Date: 2024-01-01\nSalary: $85,000",contract
+"Project Invoice\nProject ID: PROJ-456\nTotal: $3,000.00\nStatus: Pending",invoice
+Q3 Marketing Report\nHighlights: Increased engagement by 20%,report

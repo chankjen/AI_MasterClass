@@ -1,0 +1,6 @@
+﻿document,target_index
+Invoice|ID|INV-768|Date|2023-10-05|Total|$500,2
+Receipt|ID|RC-2023|Shop|CoffeeCo|Amount|$8.99,2
+Contract|Client|ABC Corp|SignDate|2023-11-01|Expiry|2025,6
+PO|PO-12345|Vendor|TechSupply|Date|2023-09-15|Cost|$1200,6
+Report|Title|Q4-Sales|Author|John|Total|$50K,5

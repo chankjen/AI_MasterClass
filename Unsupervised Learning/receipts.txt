@@ -1,0 +1,5 @@
+1. "Invoice #INV-2023-005\nDate: 2023-11-10\nTotal Due: $1,000.00\nDue Date: 2023-11-30"
+2. "Coffee Shop Receipt\nTotal: $12.75\nPayment Method: Cash\nThank you!"
+3. "Subject: Project Update\nHi Team, please review the attached report. Best, Sarah"
+4. "Q4 Financial Report\nRevenue: $2.5M\nExpenses: $1.8M\nNet Profit: $700K"
+5. "Service Agreement\nClient: XYZ Corp\nTerm: 6 months\nSignatures: [Signed]"
