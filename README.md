@@ -66,7 +66,7 @@ document,target_index
 ![Receipt-Hog-Review-1210x642](https://github.com/user-attachments/assets/6e1196dd-6c95-4cb7-a5e4-70fbd2042f2b)
 
 In the Live Class we aploaded the receipt above on DeepSeek. The model was able to extract data from the receipt and convert the prices into Kenyan shillings. 
-**Below is the DeepSeek mdel output.**
+**Below is the DeepSeek model output.**
 ---
 Here is the list of items purchased and their costs converted to Kenyan Shillings (KSH), based on the receipt. **Note**: The receipt's total sum discrepancy and ambiguous item-price pairing are acknowledged. An exchange rate of **1 USD = 160 KSH** is assumed.
 
