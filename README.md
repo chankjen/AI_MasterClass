@@ -1,7 +1,6 @@
 # AI_MasterClass
 
 **AI Model Training for Document Intelligence Resources**
-
 ---
 ### **Why Document Intelligence?**
 - **Real-Life Examples**:
