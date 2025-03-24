@@ -63,3 +63,32 @@ document,target_index
 - **Tools**: Jupyter Notebook, Google Colab, VS Code.
 
 ---
+![Receipt-Hog-Review-1210x642](https://github.com/user-attachments/assets/6e1196dd-6c95-4cb7-a5e4-70fbd2042f2b)
+
+In the Live Class we aploaded the receipt above on DeepSeek. The model was able to extract data from the receipt and convert the prices into Kenyan shillings. 
+**Below is the DeepSeek mdel output.**
+---
+Here is the list of items purchased and their costs converted to Kenyan Shillings (KSH), based on the receipt. **Note**: The receipt's total sum discrepancy and ambiguous item-price pairing are acknowledged. An exchange rate of **1 USD = 160 KSH** is assumed.
+
+| **Item**                | **Price (USD)** | **Price (KSH)** |
+|-------------------------|-----------------|-----------------|
+| 15g                     | $5.55           | 888             |
+| Plate 800g              | $1.99           | 318.4           |
+| Ines 1.5kg              | $1.49           | 238.4           |
+| Oes                     | $0.99           | 158.4           |
+| Ombers                  | $0.99           | 158.4           |
+| Hampsons Brown          | $0.99           | 158.4           |
+| Garlic ECO              | $2.59           | 414.4           |
+| Mini Steaks 400g        | $2.29           | 366.4           |
+| Mince Meat 500g         | $2.89           | 462.4           |
+| Minute Steaks 400g      | $2.75           | 440             |
+| Turkey Mini Steaks 380g | $1.09           | 174.4           |
+| Paprika Red 500g        | $2.99           | 478.4           |
+| Grapes Seedless         | $0.98           | 156.8           |
+| Kaki                    | $0.35           | 56              |
+| Sour Cream 200g         | $0.85           | 136             |
+
+**Total (USD)**: $53.28 (listed on receipt)  
+**Total (KSH)**: 53.28 × 160 = **8,524.8 KSH**  
+
+**Discrepancy Note**: The sum of individual USD prices listed ($28.78) does not match the receipt total ($53.28). This suggests potential missing prices, quantities, or formatting issues in the receipt.
